@@ -21,5 +21,5 @@ Analyzed a dataset consisting of 4,000 crowdfunding projects to discover hidden 
 
 ![Outcomes_vs_Goals.png](PNGs/Outcomes_vs_Goals.png)
 
-![categories1.PNG](PNGS/categories1.png)
+![categories1.png](PNGs/categories1.png)
 
