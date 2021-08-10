@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Kickstarter Analysis
 
 ![mod1.png](PNGs/mod1.png)
@@ -25,7 +24,4 @@ Analyzed a dataset consisting of 4,000 crowdfunding projects to discover hidden 
 #### Category Stats Pivot (US Filter) 
 
 ![categories.png](PNGS/categories.png)
-=======
-# kickstarter-analysis
-Technology Used | Excel VBA
->>>>>>> 128d0fd4acb23099036acbed2118190b5743932b
+
