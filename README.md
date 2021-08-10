@@ -23,5 +23,5 @@ Analyzed a dataset consisting of 4,000 crowdfunding projects to discover hidden 
 
 #### Category Stats Pivot (US Filter) 
 
-![categories2.png](PNGS/categories.png)
+![categories1.png](PNGS/categories1.png)
 
