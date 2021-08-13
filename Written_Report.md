@@ -28,7 +28,7 @@ The analysis of the Kickstarter Campaign had a little over 4,000 crowdfunding ca
 
 ### Analysis of Outcomes Based on Goals
 
-The analysis of outcomes based on goal indicated most of the projects that needed to reach their goal were between the less than $1,000 to $9,000 mark. The highest goals reached was about $50,000, but only two out of 16 total projects reached that goal. There was high expectations regarding the amounts of money needed; however, the performance was fair considering the large number of crowdfunding campaigns.
+The analysis of outcomes based on goal indicated most of the projects that needed to reach their goal were between the less than $1,000 to $9,000 mark. The highest goals reached was about $50,000, but only two out of 16 total projects reached that goal. There were high expectations regarding the amount of money needed; however, the performance was fair considering the large number of crowdfunding campaigns.
 
 ### Challenges and Difficulties Encountered
 
