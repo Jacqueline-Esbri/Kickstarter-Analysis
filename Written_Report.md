@@ -15,20 +15,20 @@ Using Excel to analyze current site data, will help gain a greater understanding
 
 ## Analysis and Challenges
 
-When working with data, it is inevitable to encounter errors. Some errors occur due to a mistake, while others pop up because Excel doesn't recognize a formula's output format, even if it is valid. Techniques used to fix errors vary. Sometimes errors are obscure and require research, while others have simpler fixes, such as correcting a typo. So, the errors were researched and solutions were incorporated to fix the problems.
+When working with data, it is inevitable to encounter errors. Some errors occur due to a mistake, while others pop-up because Excel doesn't recognize a formula's output format, even if it is valid. Techniques used to fix errors vary. Sometimes errors are obscure and require research, while others have simpler fixes, such as correcting a typo. So, the errors were researched and solutions were incorporated to fix the problems.
 
-Kickstarter required every campaign to have a fundraising goal. However, not every campaign has backers, which means, in some cases, there is no number to divide by in the formula (e.g., #DIV/0). While these errors did not hinder the research, it needed to be cleaned up.
+Kickstarter required every campaign to have a fundraising goal. However, not every campaign had backers, which means, in some cases, there was no number to divide by in the formula (e.g., #DIV/0). While these errors did not hinder the research, they needed to be cleaned up.
 
 There were no issues performing analysis using statistical methods such as central tendency, standard deviation, and variances. 
 
 
 ### Analysis of Outcomes Based on Launch Date
 
-The analysis of the Kickstarter Campaign had a little over 4000 crowdfunding campaigns. Out of the 4000, almost 2200 were successful and 1500 failed. Outcomes based on launched date revealed that the months of May and June were the most successful and the month of April and October had the least amount of failed outcomes. There was a trend of down-spiral during the winter months, but quickly recovered when approaching summer. I began to wonder if there was a weather related connection for these actions. 
+The analysis of the Kickstarter Campaign had a little over 4,000 crowdfunding campaigns. Out of the 4,000, almost 2,200 were successful and 1,500 failed. Outcomes based on launched date revealed that the months of May and June were the most successful and the month of April and October had the least amount of failed outcomes. There was a trend of down-spiral during the winter months, but quickly recovered when approaching summer. I began to wonder if there was a weather related connection for these actions. 
 
 ### Analysis of Outcomes Based on Goals
 
-The analysis of outcomes based on goal indicated most of the projects that needed to reach their goal were between the less than 1000 to 9000 mark. The highest goals reached was about 50,000, but only two out of 16 total projects. There was high expectations regarding the amounts of money needed. I say that it performed fair considering the large number of crowdfunding campaigns.
+The analysis of outcomes based on goal indicated most of the projects that needed to reach their goal were between the less than $1,000 to $9,000 mark. The highest goals reached was about $50,000, but only two out of 16 total projects reached that goal. There was high expectations regarding the amounts of money needed; however, the performance was fair considering the large number of crowdfunding campaigns.
 
 ### Challenges and Difficulties Encountered
 
