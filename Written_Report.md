@@ -2,26 +2,29 @@
 
 ## Overview of Project
 
-Performing analysis of Louise's Kickstarter campaign.
+Performing analysis of a Kickstarter crowdfunding campaign.
 
 ### Purpose
 
-The purpose of performing the analysis of the Kickstarter campaign was to reveal trends. Because the dataset was large, which contained over 4000  crowdfunding projects, our class relied on advanced Excel features to easily visualize the hidden trends. Excel formulas, pivot tables and charts were the best methods used to analyze and visualize the patterns and trends.
+The purpose of the analysis was to help an up-and-coming hypothetical playwright, named Louise, who wants to start a crowdfunding campaign to help fund her play. She was estimating a budget of over $10,000 and was hesitant about jumping into her first fundraising campaign. She needed someone with excel skills to help with the analysis. 
+
+For this assignment, Excel was used to organize, sort, and analyze the crowdfunding data to determine whether there were specific factors to make a project's campaign successful. These insights were used to help her plan her own and set it up for success. 
+
+Using Excel to analyze current site data, will help gain a greater understanding of campaigns from start to finish. It will also enable to set up the campaign to mirror other successful ones in the same category.
 
 
 ## Analysis and Challenges
 
-While working on this project, I was able to put in to practice advanced Excel skills that I had not used in a very long time. It was challenging, but also very interesting. To overcome the challenges, I repeated the exercises a few times to get the hang of it. Doing this, reinforced my skills and prepared me to successfully complete the following modules. 
+When working with data, it is inevitable to encounter errors. Some errors occur due to a mistake, while others pop up because Excel doesn't recognize a formula's output format, even if it is valid. Techniques used to fix errors vary. Sometimes errors are obscure and require research, while others have simpler fixes, such as correcting a typo. So, the errors were researched and solutions were incorporated to fix the problems.
 
-I encountered some challenges during the VLOOKUP and COUNTIFS functions. However, some members of our class were willing to collaborate as a group to tackle these challenges together. We collaborated through group chats and zoom meetings. The outcome was very good since we were able to share our thoughts and ideas in order to learn from each other.
+Kickstarter required every campaign to have a fundraising goal. However, not every campaign has backers, which means, in some cases, there is no number to divide by in the formula (e.g., #DIV/0). While these errors did not hinder the research, it needed to be cleaned up.
 
-My main challenge, however, was experimenting with my Mac's Terminal and Git. These skills are very new to me and at the beginning I felt a little lost. However, with the help of my TAs, I was able to understand how most of it works. 
+There were no issues performing analysis using statistical methods such as central tendency, standard deviation, and variances. 
 
-I had zero issues performing analysis using statistical methods such as central tendency, standard deviation, and variances. This is one of my favorite subjects, so I did extremely well handling the data using these methods. Overall, it was a great project to work on.
 
 ### Analysis of Outcomes Based on Launch Date
 
-The analysis of the Kickstarter Campaign had a little over 4000 crowdfunding campaigns. Out of the 4000, almost 2200 were successful and 1500 failed. Outcomes based on launched date revealed that the months of May and June were the most successful and the month of April and October had the least amount of failed outcomes. I noticed a trend of down-spiral during the winter months, but quickly recovered when approaching summer. I began to wonder if there was a weather related connection for these actions. 
+The analysis of the Kickstarter Campaign had a little over 4000 crowdfunding campaigns. Out of the 4000, almost 2200 were successful and 1500 failed. Outcomes based on launched date revealed that the months of May and June were the most successful and the month of April and October had the least amount of failed outcomes. There was a trend of down-spiral during the winter months, but quickly recovered when approaching summer. I began to wonder if there was a weather related connection for these actions. 
 
 ### Analysis of Outcomes Based on Goals
 
@@ -29,25 +32,25 @@ The analysis of outcomes based on goal indicated most of the projects that neede
 
 ### Challenges and Difficulties Encountered
 
-I found that the winter months were challenging for the Kickstarter Campaign. They may have had difficulties related to weather.
+It was found that the winter months were challenging for the Kickstarter Campaign. They may have had difficulties related to weather.
 
 
 
 ## Results
 
-- What are two conclusions you can draw about the Outcomes based on Launch Date?
+**What are two conclusions you can draw about the Outcomes based on Launch Date?**
 
-1. May into June were great months for the campaign.
-2. October was a tough month for the campaign.
+- May into June were great months for the campaign.
+- October was a tough month for the campaign.
 
-- What can you conclude about the Outcomes based on Goals?
+**What can you conclude about the Outcomes based on Goals?**
 
-The campaign set their expectations too high.
+- The campaign set their expectations too high.
 
-- What are some limitations of this dataset?
+**What are some limitations of this dataset?**
 
-It does not give information on weather. This information may have been valuable.
+- It did not provide information on weather. This information may have been valuable.
 
-- What are some other possible tables and/or graphs that we could create?
+**What are some other possible tables and/or graphs that we could create?**
 
-Pie charts and X Y scatter could be useful.
+- Pie charts and X Y scatter could have been more useful.
