@@ -53,4 +53,4 @@ It was found that the winter months were challenging for the Kickstarter Campaig
 
 **What are some other possible tables and/or graphs that we could create?**
 
-- Pie charts and X Y scatter could have been more useful.
+- Pie charts and X Y scatter plots could have been more useful.
