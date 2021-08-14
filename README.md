@@ -25,4 +25,4 @@ Analyzed a dataset consisting of 4,000 crowdfunding projects to discover hidden 
 
 ![categories1.png](PNGs/categories1.png)
 
-NOTE: Look at the Written_Report.md file for detailed analysis.
+**NOTE: Look at the Written_Report.md file for detailed analysis.**
